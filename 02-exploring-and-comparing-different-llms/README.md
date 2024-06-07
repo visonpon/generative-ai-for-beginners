@@ -86,6 +86,10 @@ Text and code generation models are models that generate text or code. These mod
  ![Text and code generation](./images/Text.png?WT.mc_id=academic-105485-koreyst)
 
 ### Encoder-Decoder versus Decoder-only
+"分为两大类，编码器+解码器类 + 解码器类
+目前大部分都是解码器类型，其特点是根据主题和内容进行总结和扩展
+编码器类型则是根据内容作出回答。
+"
 
 To talk about the different types of architectures of LLMs, let's use an analogy.
 
