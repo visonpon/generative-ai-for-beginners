@@ -1,4 +1,4 @@
-# Prompt Engineering Fundamentals
+# Prompt Engineering Fundamentals --- 怎样写好提示词
 
 [![Prompt Engineering Fundamentals](./images/04-lesson-banner.png?WT.mc_id=academic-105485-koreyst)](https://learn.microsoft.com/_themes/docs.theme/master/en-us/_themes/global/video-embed.html?id=eb8a0805-5623-4da8-b3c3-1b0ecccffa64?WT.mc_id=academic-105485-koreyst)
 
