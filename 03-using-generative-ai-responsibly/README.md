@@ -1,4 +1,4 @@
-# Using Generative AI Responsibly
+# Using Generative AI Responsibly --- 强调生成式AI的安全问题和预防策略
 
 [![Using Generative AI Responsibly](./images/03-lesson-banner.png?WT.mc_id=academic-105485-koreyst)]() 
 
