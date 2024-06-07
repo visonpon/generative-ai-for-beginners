@@ -155,7 +155,7 @@ deploy an LLM in production, with different levels of complexity, cost, and qual
 
 - **Fine-tuned model**. Here, you trained the model further on your own data which leads to the model being more exact and responsive to your needs but might be costly.
 
-![LLMs deployment](./images/Deploy.png?WT.mc_id=academic-105485-koreyst)
+![LLMs deployment](./images/Deploy.png?WT.mc_id=academic-105485-koreyst) --- 这张图很好
 
 Img source: [Four Ways that Enterprises Deploy LLMs | Fiddler AI Blog](https://www.fiddler.ai/blog/four-ways-that-enterprises-deploy-llms?WT.mc_id=academic-105485-koreyst)
 
