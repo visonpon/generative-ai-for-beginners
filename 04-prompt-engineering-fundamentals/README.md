@@ -23,7 +23,7 @@ By the end of this lesson we will be able to:
 
 ## Learning Sandbox
 
-Prompt engineering is currently more art than science. The best way to improve our intuition for it is to _practice more_ and adopt a trial-and-error approach that combines application domain expertise with recommended techniques and model-specific optimizations.
+**Prompt engineering is currently more art than science.** The best way to improve our intuition for it is to _practice more_ and adopt a trial-and-error approach that combines application domain expertise with recommended techniques and model-specific optimizations.
 
 The Jupyter Notebook accompanying this lesson provides a _sandbox_ environment where you can try out what you learn - as you go, or as part of the code challenge at the end. To execute the exercises you will need:
 
